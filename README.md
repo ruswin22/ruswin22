@@ -1,16 +1,43 @@
-## Hi there 👋
+#  Hello, I'm Ruswin Raja
 
-<!--
-**ruswin22/ruswin22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Master of Computer Applications (MCA)** 
+Mumbai, India  
+Systems Enthusiast | Backend & DevOps Learner  
 
-Here are some ideas to get you started:
+I’m a passionate developer with strong interests in **backend systems, DevOps, cloud technologies**. I enjoy building practical projects, understanding how systems work end-to-end, and continuously improving my engineering fundamentals.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Technical Skills
+
+### Programming Languages
+- Java (Spring / Spring Boot)
+- C++ (data structures, low-level logic)
+- Go (basic backend & networking)
+- Python (ML, automation, networking)
+- Bash
+
+### Backend & Frameworks
+- Spring / Spring Boot
+- FastAPI
+- RESTful API design
+
+### Databases
+- PostgreSQL
+- MySQL
+- Relational database design
+
+### DevOps & Cloud
+- Linux systems & networking fundamentals
+- Docker & Docker Compose
+- Kubernetes
+- Ansible
+- Terraform
+
+---
+
+## Let’s Connect
+- LinkedIn: *(www.linkedin.com/in/ruswin)*
+- Email: *(rajaruswin@gmail.com)*
+
+---
